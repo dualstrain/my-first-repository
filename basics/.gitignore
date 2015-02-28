@@ -1,0 +1,6 @@
+# Ignore all SQLite databases
+db/*.sqlite3
+Questions.txt
+TEST.rb
+age.rb
+mutate.rb
